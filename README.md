@@ -18,3 +18,5 @@ This document shows how to use kickstart file from github repo and install ESXI 
 
 >[!Note]
 Note: kickstart can be sourced at local http server or NFS file share. Just replace https:// to nfs://
+
+##### The encrypted root password is generated with openssl cmd `openssl passwd -1 <root_pwd>`
