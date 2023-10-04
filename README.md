@@ -4,12 +4,12 @@
 This document shows how to use kickstart file from github repo and install ESXI on the server. 
 
 
-##Dependencies 
+## Dependencies 
 1) Connected Network & Internet Access (kickstart file is located in Github)
 2) Update the config file as required
 
 
-##Installation Guide 
+## Installation Guide 
 *Boot esxi from bootable media
 *Press key Shift+O when see it prompted
 *Type the following attribute. It may change the ip address & network setting shoud be changed as corresponding to your environment. 
